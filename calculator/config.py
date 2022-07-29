@@ -1,5 +1,5 @@
 
 '''Change the config settings to your own'''
 
-fromAddr = 'your@gmail.com'
+fromAddr = 'your@gmail'
 fromPswd = 'your gmail password'
